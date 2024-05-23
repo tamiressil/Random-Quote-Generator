@@ -1,0 +1,53 @@
+body{
+    background:teal;
+}
+
+.container{
+    width: 95%;
+    height: 100vh;
+    display: flex;   
+}
+
+.quotes{
+    width: 900px;
+    height: 450px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px;
+    color: gray;
+    background-color: #f4edea;
+    border: 10px solid #f4d1ae;
+}
+
+.quotes p .quotes h2{
+    font-size: 1.5rem;
+    
+}
+
+/* Ajuste a margem do botão */
+.btn-outline-warning {
+    margin-top: -40px; /* Reduza o valor conforme necessário */
+}
+
+/* Ou se o botão estiver dentro de um div, ajuste a margem do div */
+div {
+    text-align: center;
+    margin-top: -20px; /* Reduza o valor conforme necessário */
+}
+
+@media (max-width:480px){
+    .quotes p .quotes h2{
+        font-size: 1rem;
+    }
+}
+
+
+
+
+
+
+
+
