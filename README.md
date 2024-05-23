@@ -2,7 +2,7 @@
 
 - Clik no botão, e veja citações diferentes sendo geradas aleatoriamente.
 - Projeto de JavaScript - 3.
-- Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
+- Projeto construído durante o curso PROPROFISSÃO do Instituto PROA.
 
 
 ## Tecnologias Aprendidas:
